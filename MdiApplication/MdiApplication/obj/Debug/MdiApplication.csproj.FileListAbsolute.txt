@@ -1,0 +1,11 @@
+D:\CreatePO\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+D:\CreatePO\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+D:\CreatePO\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csprojAssemblyReference.cache
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+D:\CreatePO\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb

@@ -1,0 +1,6 @@
+D:\CreatePO\Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+D:\CreatePO\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+D:\CreatePO\Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+D:\CreatePO\Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+D:\CreatePO\Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+D:\CreatePO\Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb
