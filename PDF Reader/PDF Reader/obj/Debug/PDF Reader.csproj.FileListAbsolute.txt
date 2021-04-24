@@ -1,0 +1,15 @@
+D:\CreatePO\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe.config
+D:\CreatePO\PDF Reader\PDF Reader\bin\Debug\PDF Reader.exe
+D:\CreatePO\PDF Reader\PDF Reader\bin\Debug\PDF Reader.pdb
+D:\CreatePO\PDF Reader\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+D:\CreatePO\PDF Reader\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csprojAssemblyReference.cache
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.exe
+D:\CreatePO\PDF Reader\PDF Reader\obj\Debug\PDF Reader.pdb

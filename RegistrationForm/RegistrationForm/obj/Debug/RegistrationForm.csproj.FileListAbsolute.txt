@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Acer\source\repos\RegistrationForm\RegistrationForm\obj\Debug\RegistrationForm.pdb
