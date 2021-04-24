@@ -1,0 +1,9 @@
+D:\CreatePO\DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+D:\CreatePO\DBCommand\DBCommand\bin\Debug\DBCommand.exe
+D:\CreatePO\DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.exe
+D:\CreatePO\DBCommand\DBCommand\obj\Debug\DBCommand.pdb

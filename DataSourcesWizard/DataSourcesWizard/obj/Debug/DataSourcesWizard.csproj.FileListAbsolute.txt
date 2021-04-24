@@ -1,0 +1,9 @@
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\CreatePO\DataSourcesWizard\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
