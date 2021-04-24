@@ -1,0 +1,10 @@
+D:\CreatePO\Task5\Task5\bin\Debug\Task5.exe.config
+D:\CreatePO\Task5\Task5\bin\Debug\Task5.exe
+D:\CreatePO\Task5\Task5\bin\Debug\Task5.pdb
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.Form1.resources
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.Properties.Resources.resources
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.csproj.GenerateResource.cache
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.exe
+D:\CreatePO\Task5\Task5\obj\Debug\Task5.pdb

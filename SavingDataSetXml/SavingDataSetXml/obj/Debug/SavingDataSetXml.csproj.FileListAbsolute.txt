@@ -1,0 +1,10 @@
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+D:\CreatePO\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
