@@ -1,0 +1,9 @@
+D:\CreatePO\Ball\Ball\bin\Debug\Ball.exe.config
+D:\CreatePO\Ball\Ball\bin\Debug\Ball.exe
+D:\CreatePO\Ball\Ball\bin\Debug\Ball.pdb
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.Form1.resources
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.Properties.Resources.resources
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.csproj.GenerateResource.cache
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.csproj.CoreCompileInputs.cache
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.exe
+D:\CreatePO\Ball\Ball\obj\Debug\Ball.pdb
