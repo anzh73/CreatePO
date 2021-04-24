@@ -1,0 +1,9 @@
+D:\CreatePO\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\CreatePO\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\CreatePO\CreatingDataTable\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\CreatePO\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
